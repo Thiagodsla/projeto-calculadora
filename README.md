@@ -1,5 +1,24 @@
 # projeto-calculadora
 
-Projeto de uma calculadora de combustivel e cerveja as duas coisas que mais afetam no bolso do pobre brasileiro.  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8">
-<img align="center" src="./img/calculadora.png">
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
